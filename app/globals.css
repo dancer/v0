@@ -137,7 +137,6 @@ textarea::-webkit-scrollbar-thumb:hover {
   animation: enhance-button-appear 0.6s cubic-bezier(0.16, 1, 0.3, 1) forwards;
 }
 
-/* Add these styles for the popup */
 .legal-popup {
   animation: fadeIn 0.2s ease-out;
 }
